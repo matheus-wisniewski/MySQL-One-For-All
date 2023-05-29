@@ -82,7 +82,7 @@ VALUES
 ('Beyoncé'),
 ('Queen'),
 ('Elis Regina'),
-('Baco Exu Do Blues'),
+('Baco Exu do Blues'),
 ('Blind Guardian'),
 ('Nina Simone');
 
@@ -109,7 +109,7 @@ VALUES
 ('Jazz', 1978, 2),
 ('Hot Space', 1982, 2),
 ('Falso Brilhante', 1998, 3),
-('Vento De Maio', 2001, 3),
+('Vento de Maio', 2001, 3),
 ('QVVJFA?', 2003, 4),
 ('Somewhere Far Beyond', 2007, 5),
 ('I Put A Spell On You', 2012, 6);
