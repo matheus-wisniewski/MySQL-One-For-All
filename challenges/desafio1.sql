@@ -64,18 +64,18 @@ VALUES
 ('universitário', 5.99),
 ('pessoal', 6.99);
 
-INSERT INTO SpotifyClone.user (user_id, user_name, user_age, plan_id, signature_date)
+INSERT INTO SpotifyClone.user (user_name, user_age, plan_id, signature_date)
 VALUES
-(1, 'Barbara Liskov', 82, 1, '2019-10-20'),
-(2, 'Robert Cecil Martin', 58, 1, '2017-01-06'),
-(3, 'Ada Lovelace', 37, 2, '2017-12-30'),
-(4, 'Martin Fowler', 46, 2, '2017-01-17'),
-(5, 'Sandi Metz', 58, 2, '2018-04-29'),
-(6, 'Paulo Freire', 19, 3, '2018-02-14'),
-(7, 'Bell Hooks', 26, 3, '2018-01-05'),
-(8, 'Christopher Alexander', 85, 4, '2019-06-05'),
-(9, 'Judith Butler', 45, 4, '2020-05-13'),
-(10, 'Jorge Amado', 58, 4, '2017-02-17');
+('Barbara Liskov', 82, 1, '2019-10-20'),
+('Robert Cecil Martin', 58, 1, '2017-01-06'),
+('Ada Lovelace', 37, 2, '2017-12-30'),
+('Martin Fowler', 46, 2, '2017-01-17'),
+('Sandi Metz', 58, 2, '2018-04-29'),
+('Paulo Freire', 19, 3, '2018-02-14'),
+('Bell Hooks', 26, 3, '2018-01-05'),
+('Christopher Alexander', 85, 4, '2019-06-05'),
+('Judith Butler', 45, 4, '2020-05-13'),
+('Jorge Amado', 58, 4, '2017-02-17');
 
 INSERT INTO SpotifyClone.artist (artist_name)
 VALUES
@@ -125,7 +125,7 @@ VALUES
 ('O Medo de Amar é o Medo de Ser Livre', 207, 3, 5),
 ('Samba em Paris', 267, 4, 6),
 ("The Bard's Song", 244, 5, 7),
-('I Put A Spell On You', 100, 6, 8);
+('Feeling Good', 100, 6, 8);
 
 INSERT INTO SpotifyClone.history (user_id, play_history, last_heard)
 VALUES
