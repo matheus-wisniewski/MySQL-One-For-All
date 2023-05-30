@@ -9,15 +9,15 @@ CREATE TABLE SpotifyClone.favorite_songs(
 INSERT INTO SpotifyClone.favorite_songs (user_id, song_id)
 VALUES
   (1, 3),
-  (1, 9),
+  (1, 6),
   (1, 10),
-  (2, 7),
-  (3, 6),
-  (3, 9),
-  (4, 4),
+  (2, 4),
+  (3, 1),
+  (3, 3),
   (4, 7),
+  (4, 4),
+  (5, 10),
   (5, 2),
-  (5, 3),
-  (8, 7),
-  (9, 4),
-  (10, 9);
+  (8, 4),
+  (9, 7),
+  (10, 3);
