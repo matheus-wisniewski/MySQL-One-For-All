@@ -14,4 +14,4 @@ Neste projeto eu recebi uma planilha não normalizada semelhante ao que poderia 
 
 # Pastas e arquivos
 
-Todo o material fora da paste [challenges](./challenges/) foi desenvolvido pela Trybe. Cabendo a mim, apenas, os comandos referenciados na sessão "Sobre o projeto" desse README.
+Todo o material fora da pasta [challenges](./challenges/) foi desenvolvido pela Trybe. Cabendo a mim, apenas, os comandos referenciados na sessão "Sobre o projeto" desse README.
