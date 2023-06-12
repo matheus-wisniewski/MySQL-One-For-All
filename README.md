@@ -1,10 +1,17 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Olá, boas-vindas ao repositório do projeto MySQL One For All!
+
+# Sobre o projeto
+
+Este projeto foi desenvolvido na seção 03 - Funções SQL, JOINs e Normalização do [curso de Desenvolvimento Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) no módulo de back-end. <br>
+A resolução dos requisitos podem ser encontradas no arquivo [requisitos](./challenges/Requisitos.md) da pasta [challenges](./challenges/) junto com a descrição dos mesmos.
+
+# Objetivos do projeto e ferramentas utilizadas
+
+Neste projeto eu recebi uma planilha não normalizada semelhante ao que poderia ser uma versão simplificada do banco de dados do Spotify e o trabalho consistia em duas partes: 
+
+1. Normalizar a planilha, criar as tabelas no banco dados local e populá-lo;
+2. Realizar os desafios no banco normalizado e populado.
+
+# Pastas e arquivos
+
+Todo o material fora da paste [challenges](./challenges/) foi desenvolvido pela Trybe. Cabendo a mim, apenas, os comandos referenciados na sessão "Sobre o projeto" desse README.
